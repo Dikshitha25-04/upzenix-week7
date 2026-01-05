@@ -1,7 +1,7 @@
 # 🛒 E-Commerce Website (Capstone Project)
 
 ## 🔗 Live Demo
-👉 reliable-twilight-7f0f30.netlify.app
+👉 https://reliable-twilight-7f0f30.netlify.app
 
 ## 📦 GitHub Repository
 👉 https://github.com/Dikshitha25-04/upzenix-week7
